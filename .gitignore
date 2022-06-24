@@ -1,0 +1,14 @@
+# Intellij Idea
+out/
+.idea/
+**.iml
+
+# Maven
+target/
+
+# Log4J
+logs/
+
+# Gradle
+.gradle/
+build/
